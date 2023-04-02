@@ -1,4 +1,4 @@
-## sudoku
+## SUDOKU SOLVER
 
 ### Description
 
